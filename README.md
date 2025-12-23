@@ -1,3 +1,6 @@
+<img width="1539" height="1316" alt="image" src="https://github.com/user-attachments/assets/2e58d209-6dd0-4b22-9ec2-2f4ca2760a99" />
+
+
 # SaveSmart – Work-Hour Based Purchase Decision Application
 
 SaveSmart is a personal finance MVP built with Streamlit that helps users make
